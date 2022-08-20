@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-👇🏻Click 📕pics to 🔽download.
+`👇🏻Click 📕pics to 🔽download.`
 
 #### <span id=Math></span>
 [<img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1344751633i/967329.jpg" height=130 width=100>](https://cloudflare-ipfs.com/ipfs/bafykbzacedrenrixfa5c57r6he6kzw5vmad32pmsqcwc6c3izxmzcpzsm5fjc?filename=Garrity%20Math.pdf)
